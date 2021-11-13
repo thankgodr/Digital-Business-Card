@@ -12,6 +12,7 @@ function App() {
       <Col xs={12} md={6} className="align-self-center mainCol">
         <Header />
         <Main />
+        <Footer />
       </Col>
     </Row>
   );
