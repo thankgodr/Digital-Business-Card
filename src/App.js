@@ -11,6 +11,7 @@ function App() {
     <Row className="main_row justify-content-md-center">
       <Col xs={12} md={6} className="align-self-center mainCol">
         <Header />
+        <Main />
       </Col>
     </Row>
   );

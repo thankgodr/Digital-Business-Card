@@ -36,6 +36,41 @@ body {
   color: #f5f5f5;
   text-align: center;
 }
+.email_btn {
+  color: #374151;
+  background-color: #ffffff;
+  border-color: #ffffff;
+}
+
+.twitter_btn {
+  color: #ffffff;
+  background-color: #00acee;
+  border-color: #00acee;
+}
+
+.social_btn {
+  padding: 9px 13px 9px 11px;
+  border-radius: 6px;
+  width: 115px;
+}
+
+.about_title {
+  font-family: inter, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  size: 16px;
+  line-height: 150%;
+  color: #f5f5f5;
+}
+
+.abount_details {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #dcdcdc;
+}
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
